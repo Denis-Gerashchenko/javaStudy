@@ -1,7 +1,6 @@
 public class TestEmp {  // Save as "TestCircle.java"
     public static void main(String[] args) {
-        Employe emp1 = new Employe(1, "Sail", "Bro", 1000);
-        emp1.raiseSalary(10);
-        System.out.println(emp1.toString());
+        InvoiveItem i1 = new InvoiveItem("Jopa", "desc", 123, 56.988);
+        System.out.println(i1.toString());
     }
 }
