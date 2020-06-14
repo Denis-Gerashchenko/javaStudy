@@ -5,6 +5,7 @@ public class Testauthor {
 
     public static void main(String[] args) {
         String jkr = "Че как";
+        String jkr1 = "Че как";
         print(jkr);
     }
 }
