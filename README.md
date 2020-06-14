@@ -1,2 +1,2 @@
 # javaStudy
-Learning java; directory with all the files
+Learning java; directory with all the files/
